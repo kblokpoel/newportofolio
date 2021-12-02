@@ -14,3 +14,15 @@ body {
   justify-content:center;
   align-items:center;
 }
+.button-light-on{
+  background-color: rgb(48, 48, 48);
+  color: white;
+  transition-duration: 0.5s;
+}
+.middletext{
+text-align: center;
+margin-top: 400px;
+font-family: 'Gwendolyn', cursive;
+}
+
+
